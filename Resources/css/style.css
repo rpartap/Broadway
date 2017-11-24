@@ -6,4 +6,4 @@ p {font-size: 14px;}
 .middle {display: block; background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
 h2 {font size: 23px; font-weight: bold; color: white;}
 .footer p {font-size: 11px; color: white; background-color: dimgray; display: block;}
-nav {font-weight: bold; color: white;}
+.foot-nav {color: white; font-weight: bold; font-size: 20px;}
