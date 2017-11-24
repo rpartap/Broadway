@@ -1,2 +1,4 @@
 html {font-family: Helvetica; text-align: center;}
-.header {font-size: 70px; font-weight: bold; color: white; background-image: url(./images/the-flatiron-building.png);}
+.header {color: white; background-image: url("./images/the-flatiron-building.png");
+.navlist {font-size: 18px;}
+h1 {font-size: 70px; font-weight: bold;}
