@@ -1,8 +1,7 @@
-html {font-family: Helvetica; text-align: center;}
+html {font-family: Helvetica; text-align: center; font-size: 14px;}
 .header {color: white; background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 h1 {font-size: 70px; font-weight: bold;}
 .process {font-size: 32px; font-weight: bold;}
-p {font-size: 14px;}
 .middle {display: block; background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
 h2 {font size: 23px; font-weight: bold; color: white;}
 .copyright {font-size: 11px; color: white; background-color: dimgray;}
