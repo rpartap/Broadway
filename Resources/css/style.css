@@ -6,5 +6,5 @@ html {font-family: Helvetica; text-align: center; font-size: 14px;}
 .foot-nav {color: white; font-weight: bold; text-decoration: underline; font-size: 18px;}
 .top-nav {font-size: 18px; color: white;}
 .footer {background-color: dimgray; text-align: left;}
-.identify, .understand, .execute, .portfolio, .team, .contact {font-size: 23px; font-weight: bold;}
+.identify, .understand, .execute, .portfolio, .team, .contact, .middle {font-size: 23px; font-weight: bold;}
 .middle {color: white; background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
