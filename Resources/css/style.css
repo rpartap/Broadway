@@ -9,4 +9,4 @@ h2 {font size: 23px; font-weight: bold; color: white;}
 .top-nav {font-size: 18px; color: white;}
 .footer {background-color: dimgray;}
 .identify, .understand, .execute {font-size: 23px; font-weight: bold;}
-a {color: white;}
+a, a:link {color: white;}
